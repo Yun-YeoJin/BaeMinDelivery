@@ -9,6 +9,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("d")
         print("un")
+        
+        
+        print(1)
+        print(2)
+        print(3)
+        
     }
     
     @IBAction func baeminRiders(_ sender: UIButton) {
