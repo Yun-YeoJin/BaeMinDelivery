@@ -7,7 +7,8 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
- 
+        print("d")
+        print("un")
     }
     
     @IBAction func baeminRiders(_ sender: UIButton) {
@@ -75,5 +76,7 @@ class ViewController: UIViewController {
         topLabel.textColor = .darkGray
     }
 
-
+ 
+    
+    
 }
