@@ -7,13 +7,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("d")
-        print("un")
-        
-        
-        print(1)
-        print(2)
-        print(3)
         
     }
     
