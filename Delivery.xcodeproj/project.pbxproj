@@ -13,6 +13,7 @@
 		AEA6D7262872BC1600B8A595 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEA6D7242872BC1600B8A595 /* Main.storyboard */; };
 		AEA6D7282872BC1700B8A595 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEA6D7272872BC1700B8A595 /* Assets.xcassets */; };
 		AEA6D72B2872BC1700B8A595 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEA6D7292872BC1700B8A595 /* LaunchScreen.storyboard */; };
+		AEB624982879E93600E8AF10 /* BaeminSearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEB624972879E93600E8AF10 /* BaeminSearchViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AEA6D7272872BC1700B8A595 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AEA6D72A2872BC1700B8A595 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AEA6D72C2872BC1700B8A595 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEB624972879E93600E8AF10 /* BaeminSearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaeminSearchViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AEA6D71E2872BC1600B8A595 /* AppDelegate.swift */,
 				AEA6D7202872BC1600B8A595 /* SceneDelegate.swift */,
 				AEA6D7222872BC1600B8A595 /* ViewController.swift */,
+				AEB624972879E93600E8AF10 /* BaeminSearchViewController.swift */,
 				AEA6D7242872BC1600B8A595 /* Main.storyboard */,
 				AEA6D7272872BC1700B8A595 /* Assets.xcassets */,
 				AEA6D7292872BC1700B8A595 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEB624982879E93600E8AF10 /* BaeminSearchViewController.swift in Sources */,
 				AEA6D7232872BC1600B8A595 /* ViewController.swift in Sources */,
 				AEA6D71F2872BC1600B8A595 /* AppDelegate.swift in Sources */,
 				AEA6D7212872BC1600B8A595 /* SceneDelegate.swift in Sources */,
